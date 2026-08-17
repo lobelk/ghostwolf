@@ -1,0 +1,16 @@
+{
+  "adm": {
+    "nome": "Administrador",
+    "senha": "adm123",
+    "cargo": "Administrador",
+    "iniciais": "AD",
+    "isAdmin": true
+  },
+  "arthur.lopes": {
+    "nome": "Arthur Lopes",
+    "senha": "123456",
+    "cargo": "Funcionário",
+    "iniciais": "AL",
+    "isAdmin": false
+  }
+}
